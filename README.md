@@ -8,10 +8,10 @@ Este projeto contém implementações de três algoritmos de machine learning su
 
 ## Estrutura do Projeto
 
-- `logistic_regression.py`: Implementação da Regressão Logística usando Gradient Descent e Stochastic Gradient Descent.
-- `gaussian_discriminant_analysis.py`: Implementação da Análise Discriminante Gaussiana.
-- `naive_bayes.py`: Implementação do algoritmo Naive Bayes.
-- `main.py`: Script principal para carregar o dataset, treinar os modelos e avaliar o desempenho.
+- `logistic-regression.ipynb`: Implementação da Regressão Logística usando Gradient Descent e Stochastic Gradient Descent.
+- `Gausian-discriminant-analysis.ipynb`: Implementação da Análise Discriminante Gaussiana.
+- `naive_bayes.ipynb`: Implementação do algoritmo Naive Bayes.
+
 
 ## Requisitos
 
