@@ -25,33 +25,11 @@ Este repositório contém implementações em Python de diversos modelos de apre
 
 ## Estrutura do Repositório
 
-*   **`data`:** Contém os conjuntos de dados utilizados para treinamento e teste dos modelos.
+
 *   **`models`:** Contém os scripts em Python com as implementações dos modelos.
 *   **`utils`:** Contém funções auxiliares utilizadas nos modelos.
 *   **`README.md`:** Este arquivo, com a descrição dos modelos e instruções de uso.
 
-## Como Executar o Código
-
-1.  **Clone este repositório:**
-    ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-    ```
-
-2.  **Instale as dependências:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Execute os scripts para treinar e avaliar os modelos:**
-    ```bash
-    python models/linear_regression.py
-    python models/logistic_regression.py
-    # ... (execute os scripts para os outros modelos)
-    ```
-
-## Conjuntos de Dados
-
-Os conjuntos de dados utilizados para treinamento e teste dos modelos estão localizados na pasta `data`. Cada arquivo de dados deve ter um formato adequado para o modelo em questão (por exemplo, CSV para a maioria dos modelos).
 
 ## Avaliação dos Modelos
 
@@ -61,19 +39,3 @@ O desempenho dos modelos é avaliado utilizando métricas específicas para cada
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests com melhorias, correções ou novas implementações de modelos.
 
-## Licença
-
-Este projeto está licenciado sob a licença [Nome da Licença].
-
-## Contato
-
-Em caso de dúvidas ou sugestões, entre em contato com os autores do projeto.
-
-## Observações
-
-*   Este README fornece uma visão geral dos modelos implementados e como executar o código.
-*   Para detalhes sobre cada modelo e suas implementações, consulte os scripts em Python na pasta `models`.
-*   Certifique-se de ter as bibliotecas necessárias instaladas antes de executar o código.
-*   Os conjuntos de dados utilizados podem ser substituídos por outros de sua preferência, desde que estejam em um formato adequado.
-
-Este código README.md é um exemplo simples e direto, mas você pode personalizá-lo adicionando mais informações relevantes sobre o seu projeto, como detalhes sobre os conjuntos de dados utilizados, os resultados obtidos, exemplos de uso dos modelos, etc.
